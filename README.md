@@ -1,7 +1,7 @@
 # Car
 base on stm32,openmv  基于stm32和openmv的智能小车
 ## 基本设计实现（图）
-<img src="https://github.com/liuxiaochen712/Car/blob/main/whole.jpg"></img>
+<img src="https://github.com/liuxiaochen712/Car/blob/main/whole.png"></img>
 
 - 整车由后轮驱动，两个后轮均装备编码器，利用PID调节速度
 - 整车由STM-32控制，带有一个拓展板
@@ -11,7 +11,7 @@ base on stm32,openmv  基于stm32和openmv的智能小车
 
 <br></br>
 ## 摄像头
-<img src="https://github.com/liuxiaochen712/Car/blob/main/camera.jpg"></img>
+<img src="https://github.com/liuxiaochen712/Car/blob/main/camera.png"></img>
 
 1. 实现的功能
 - 在寻迹过程中完成对特殊情况的处理（十字路口）
